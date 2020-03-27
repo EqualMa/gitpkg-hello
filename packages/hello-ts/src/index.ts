@@ -1,1 +1,1 @@
-export const hello = (name = "World") => `Hello ${name} from TypeScript!`
+export const hello = (name = "World") => `Hello ${name} from TypeScript in branch-a!`
